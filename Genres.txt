@@ -3,18 +3,18 @@ Action
 Adventure
 Animation 
 Comedy
-Crime
+#Crime
 Documentary
 Drama
 Family
 Fantasy
-History
+#History
 Horror
-Music
+#Music
 Mystery
 Romance
 Science Fiction
-TV Movie
-Thriller
-War
-Western
+#TV Movie
+#Thriller
+#War
+#Western
